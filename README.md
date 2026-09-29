@@ -35,3 +35,11 @@ O projeto possui testes automatizados para verificar funcionalidades básicas do
 ## Projeto acadêmico
 
 Projeto desenvolvido como MVP para a disciplina de Projeto de Software.
+
+
+
+## Revisão técnica
+
+Durante a revisão do MVP, foi verificado que as funcionalidades principais de cadastro, consulta, edição e exclusão de peças estão organizadas de forma simples e adequada ao objetivo do sistema.
+
+Também foram incluídos testes automatizados para auxiliar na verificação das funcionalidades e na manutenção da qualidade do código.
